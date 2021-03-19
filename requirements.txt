@@ -4,7 +4,7 @@ coverage==5.0.4
 dj-database-url==0.5.0
 Django==3.0.7
 django-cors-headers==3.2.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-simplejwt==4.4.0
 mimesis==4.0.0
 psycopg2==2.8.4
